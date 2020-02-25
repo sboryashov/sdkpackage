@@ -83,6 +83,9 @@ type ..\..\org.scn.community.shared\templates.main\contribution.ztl.head.txt ^
 ..\res\Base64Image\def\contribution.ztl ^
 ..\res\BasicBusinessCard\def\contribution.ztl ^
 ..\res\Calendar\def\contribution.ztl ^
+
+..\res\CalendarMonth\def\contribution.ztl ^
+
 ..\res\CheckBoxGroup\def\contribution.ztl ^
 ..\res\ColorPicker\def\contribution.ztl ^
 ..\res\DateRangeScroller\def\contribution.ztl ^
